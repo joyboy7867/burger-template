@@ -1,0 +1,424 @@
+.navbar{
+  background-color: #190B02
+}
+.btn-warning{
+  width: 100%;
+}
+h6{
+  margin-right: 100px;
+}
+h1{
+  font-family: 'Climate Crisis', cursive;
+  color: white;
+}
+.bdimg{
+  width: 100%;
+}
+body{
+  background-image: url("./images/6977234.jpg");
+  background-color: #81380b90;
+  height: 70em;
+}
+.scrollmenu{
+  margin-left: 30%;
+  
+  overflow:auto;
+  white-space:nowrap;
+  width: 40%;
+  scroll-behavior: smooth;
+  
+  
+  
+}
+
+a{
+  padding: 6%;
+  font-size: x-large;
+}
+.bg{
+  display: flex;
+  width: 25%;
+  
+}
+.drinkimg1{
+  width: 50%;
+  position: absolute;
+  margin-bottom: 10%;
+  right: 100px;
+  top: 1000px;
+}
+.drinkimg4{
+  width: 185px;
+  position: absolute;
+  margin-top: 200px;
+  right: 15px;
+}
+.drinkimg6{
+  position: absolute;
+  margin-top: 250px;
+  right: 95px;
+  width: 80px;
+}
+.drinkimg5{
+  width: 40px;
+}
+
+.burgerimg1{
+  width: 200px;
+  margin-top: 4%;
+}
+.burgerimg2{
+  width: 200px;
+}
+.burgerimg3{
+  width: 200px;
+}
+.burgerimg4{
+  width: 200px;
+  margin-top: 5%;
+}
+.burgerimg5{
+  width: 300px;
+  margin-right: 8%;
+}
+.burgerimg6{
+  width: 200px;
+}
+.burgerimg7{
+  width: 300px;
+}
+.burgerimg8{
+  width: 200px;
+}
+
+.burger{
+  
+  margin-left: 40%;
+  margin-top: 2%;
+}
+.btn-bg{
+  width: 150px;
+  margin-left: 24%;
+}
+button{
+  background-color: transparent;
+  padding: 4%;
+  width: 20%;
+  margin-left: 10%;
+  border: none;
+}
+.enlarge{
+  width: 810px;
+  
+}
+.bgpra{
+  width: 30%;
+  margin-left: 36%;
+  bottom: 33%;
+  text-align: center;
+  background-color: transparent;
+  height: 15em;
+  overflow:hidden;
+  color: aliceblue;
+  font-size: larger;
+}
+.drk{
+ position: absolute;
+  margin-right: 27%;
+  top: 26%;
+  right: 20%;
+}
+.bigburger{
+ 
+  width: 700px;
+  margin-top: 20%;
+ 
+  
+}
+.firsttext{
+  margin-left: 15%;
+  font-size: 60px;
+  color: black;
+  width: 40%;
+  margin-top: 20%;
+  text-align: center;
+  
+  
+}
+p{
+  font-family: 'Tilt Warp', cursive;
+  color: white;
+}
+h3{
+  color: white;
+  font-weight: 800;
+}
+h4{
+  color:white;
+}
+h2{
+  color: white;
+}
+.menu{
+  margin-left: 5%;
+  color: white;
+}
+hr{
+  position: relative;
+  top: 20px;
+  border: none;
+  height: 42px;
+  background:white;
+  margin-bottom: 50px;
+}
+.textcard{
+  width: 30%;
+  margin-left: 30%;
+}
+.lbg{width: 100%;
+  height: 25em;
+  border-radius: 190px;
+  
+  margin-top: 35%;
+
+}
+.lbg2{
+  width: 100%;
+  border-radius: 210px;
+  height: 25em;
+  margin-top: 35%;
+
+}
+.bigbtn{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+.carousel{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 14%;
+  
+}
+.testimonial-image{
+  width: 60%;
+  height: 300px;
+  margin-left: 25%;
+  border-radius: 200px;
+}
+.testimonial-text{
+  margin-bottom: 4%;
+  text-align: center;
+}
+.rev{
+  margin-left: 5%;
+  margin-top: 5%;
+  
+}
+.chef{
+  width: 100%;
+}
+.multiple{
+  margin-top: 15%;
+}
+.features{
+  margin-top: 7%;
+}
+.fast{
+  margin-top: 7%;
+}
+p{
+  width: 50%;
+}
+.clean{
+  width: 40%;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+.leaf1{
+  margin-top: 17%;
+}
+.leaf{
+  margin-top: 3%;
+}
+.footer{
+  background-color: #190B02;
+  width: 100%;
+  height: 120px;
+  text-align: center;
+}
+.fa-brands{
+  margin-top: 2%;
+  margin-left: 2%;
+  color: yellow;
+}
+.fa-brands:hover{
+  color:pink;
+  font-size: 50px;
+}
+.contact{
+  margin-top: 25%;
+  margin-bottom: 18%;
+  color: yellow;
+}
+input{
+  border-radius: 10px;
+}
+textarea{
+  border-radius: 10px;
+}
+.fa-phone{
+  margin-top: 4%;
+  margin-bottom: 6%;
+}
+input{
+  margin-bottom: 2%;
+}
+.submit{
+  margin-top: 4%;
+  margin-bottom: 4%;
+  width: 50%;
+  margin-right: 10%;
+}
+form{
+  background-color:#E384FF;
+  width: 50%;
+  margin-left: 15%;
+  border-radius: 25px;
+  text-align: center;
+}
+.love{
+  width: 50%;
+  text-align: center;
+  margin-top: 30%;
+  margin-left: 10%;
+}
+.ss{
+  margin-left: 40%;
+}
+h6{
+  font-size: 50px;
+  color: white;
+  font-weight: 800;
+  margin-top: 8%;
+  margin-left: 20%;
+}
+.copy{
+  margin-left: 25%;
+  background-color: #190B02;
+  margin-top: 1%;
+}
+
+
+
+.eff {
+  --s: 15px;  /* size of the frame */
+  --b: 2px;   /* border thickness */
+  --w: 300px; /* width of the image */
+  --c: #7B3B3B;
+  
+  width: var(--w);
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: calc(2*var(--s));
+  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
+  background:
+    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
+    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
+  outline: calc(var(--w)/2) solid #0009;
+  outline-offset: calc(var(--w)/-2 - 2*var(--s));
+  transition: .4s;
+  cursor: pointer;
+}
+.eff:hover {
+  outline: var(--b) solid var(--c);
+  outline-offset: calc(var(--s)/-2);
+  --_i: calc(100% - 2*var(--s));
+}
+
+@media (max-width:993px) {
+  .firsttext{
+    font-size: 50px;
+  }
+  .bigburger{
+    width: 100%;
+  }
+  h4{
+    text-align: center;
+  }
+  .boy{
+    width: 70%;
+
+  }
+  .fast{
+    margin-left: 30%;
+  }
+  .clean{
+    width: 100%;
+    margin-left:30% ;
+  }
+  .clean1{
+    width: 50%;
+  }
+  .leaf{
+    width: 100%;
+  }
+  .leaf1{
+    margin-left: 30%;
+    margin-top: 2%;
+  }
+  .burger{
+    width: 100%;
+    margin-left: 2%;
+  }
+  .textcard{
+    width: 50%;
+  }
+  .scrollmenu{
+    width: 100%;
+    margin-left: 1%;
+  }
+  .b{
+    width: 150px;
+  }
+  .eff{
+    
+    width: 100%;
+    height: 25em;
+    margin-top: 2%;
+  }
+  .testimonial-image{
+    width: 200px;
+    height: 10em;
+    margin-left: 2%;
+   
+  }
+  .testimonial-text{
+    width: 100%;
+    text-align: center;
+    font-size: large;
+  }
+  .love{
+    width: 100%;
+    margin-left: 1%;
+  }
+  h6{
+    width: 100%;
+    margin-left: 50%;
+  }
+  form{
+    width:100%;
+    margin-left: 1%;
+  }
+  h3{
+    color: #190B02;
+  }
+  h6{
+    margin-left: 15%;
+  }
+  .btn-warning{
+    width: 30%;
+    margin-left: 1%;
+  }
+
+}
